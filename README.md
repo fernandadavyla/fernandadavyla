@@ -1,4 +1,4 @@
-## Oii, me chamo Fernanda Davyla, estudante de programação e tecnologia!
+## Oii, me chamo Fernanda Davyla, sou estudante de programação e tecnologia!
 <div align="center">
   
   <a href="https://github.com/fernandadavyla">
